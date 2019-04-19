@@ -1,4 +1,4 @@
-# Scarping
+# Scraping
 Scraping Houses in Redfin.com
 
 Information to be scraped
